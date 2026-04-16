@@ -116,7 +116,9 @@ HOST=0.0.0.0
 PORT=3000
 
 # 数据库 MySQL 8.0
-DATABASE_URL=mysql+aiomysql://root:password@localhost:3306/guiyuan
+DATABASE_URL=mysql+aiomysql://root:root@localhost:3306/guiyuan
+
+
 
 # Redis
 REDIS_URL=redis://localhost:6379
