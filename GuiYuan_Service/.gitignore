@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+dist/
+build/
+.eggs/
+*.egg-info/
+.env
+.DS_Store
+certs/
+coverage/
+.ruff_cache/
+.pytest_cache/
+alembic/versions/*.pyc
